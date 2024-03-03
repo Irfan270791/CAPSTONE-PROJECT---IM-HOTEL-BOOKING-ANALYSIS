@@ -1,6 +1,7 @@
 # CAPSTONE-PROJECT---IM-HOTEL-BOOKING-ANALYSIS
 
 Overview :-
+
 This project aims to conduct an exploratory data analysis (EDA) on a dataset of hotel bookings to gain insights on booking patterns and customer behaviour. The analysis will focus on dentifying patterns in bookings and cancellations, customer demographics and preferences, and the effectiveness of different distribution channels. 
 [Built using jupyter notebook and Python 3]
 
@@ -30,4 +31,5 @@ Conclusion:-
 * By implementing these strategies, the hotel management will be able to achieve their business objectives.
 
 Scope:-
+
 Further analysis needs to be carried out to improve customer satisfaction by incorporating customer feedback in the dataset With the available data a machine learning model can be created to predict room cancellations or booking trends
